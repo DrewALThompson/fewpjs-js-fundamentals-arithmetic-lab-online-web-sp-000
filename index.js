@@ -6,4 +6,4 @@ let random = Math.floor(Math.random() * 10) + 1;
 
 let mod = 19 % 5;
 
-let max = Number.ceil([0, 1, 20]);
+let max = Math.ceil([0, 1, 20]);
